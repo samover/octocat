@@ -1,1 +1,7 @@
-Explain in your own words what 'git clone' does.
+Cloning a repo seems to be THE way in which to start contributing to a developing project. As far as I understand it, one can clone the original repo or a fork. If one is not a contributor to the original, cloning it will not allow one to contribute. That's why - in order to contribute - one must clone a fork, make changes and then create a pull request to the upstream remote. 
+"git clone <repo>" 
+	* copies an existing repository, be it local or remote (e.g. on github) in a new directory.
+	* this is an independent repository for me to play with at will
+	* clone adds a remote connection (origin) to the original repo for easy pull/fetch requests
+	* in order to contribute to repo's one is not a contributor of, add an upstream remote
+
