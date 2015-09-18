@@ -1,1 +1,1 @@
-Explain in your own words what a 'branch' is.
+Branches are effectively forks within my own repository. It was explained to me with the image of building a house. When building a house, I need to start first with the foundations, then I add the walls, and then the roof. With branches, all these stages can be done at the same time, and then brought together (= merging branches). 
