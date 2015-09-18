@@ -1,4 +1,4 @@
-# octocat
+# Octocat Challenge
 <h3>TASKS:</h3>
 <ul>
 <li>Create a new repository on Github to store a list of test questions for this test. Call the repository "Octocat".</li>
