@@ -1,3 +1,3 @@
-The "upstream remote" is the repo of a project to which one wants to contribute. After forking the project (on Github) and cloning it locally, I have to add an upstream remote where I can sent my pull requests. I can list my remote repositories with "git remote -v"
+The "upstream remote" is the repo of a project to which one wants to contribute. After forking the project (on Github) and cloning it locally, I have to add an upstream remote where I can sent my pull requests. I can list my remote repositories with "git remote -v". The "upstream remote" is different from the "origin remote", the latter being usually my fork of the original repo.
 
 "git remote add upstream <github_link_to_original_repository>"
